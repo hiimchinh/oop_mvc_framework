@@ -1,0 +1,16 @@
+{
+    "name": "chinhhm/php_mvc_framework",
+    "description": "PHP MVC framework recreated",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chinh Hoang",
+            "email": "chinh@hiimchinh.com"
+        }
+    ],
+    "require": {}
+}
